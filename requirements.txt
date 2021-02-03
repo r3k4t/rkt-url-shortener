@@ -1,1 +1,1 @@
- pip install bitly_api
+bitly_api
