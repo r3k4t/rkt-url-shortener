@@ -9,7 +9,7 @@
 
 
 
-Rkt Url Shorenter is a simple python program to shorten links
+Rkt Url Shorenter is a simple python program to shorten links.
 
 
 
